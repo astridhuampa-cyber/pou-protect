@@ -1,0 +1,6 @@
+{
+  "name": "POU PROTECT",
+  "description": "Aplicación móvil de seguridad personal, familiar, del hogar e inclusión con asistente POU IA, botón SOS, cámaras inteligentes, control de accesos y máxima accesibilidad.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
